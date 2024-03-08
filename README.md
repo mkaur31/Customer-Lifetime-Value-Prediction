@@ -1,7 +1,7 @@
-# Customer Lifetime Value (CLV)
+# Customer Lifetime Value (CLV) Prediction
 
 ## Overview
-Customer Lifetime Value (CLV) is a monetary value that represents the amount of revenue or profit a customer will give the company over the period of the relationship. Understanding CLTV helps businesses in identifying the most profitable customers, optimizing product offerings, and deciding on customer acquisition budgets. This project focuses on various methodologies for calculating CLTV and demonstrates their implementation through a practical example.
+Customer Lifetime Value (CLV) is a monetary value that represents the amount of revenue or profit a customer will give the company throughout the relationship. Understanding CLTV helps businesses identify the most profitable customers, optimize product offerings, and decide on customer acquisition budgets. This project focuses on various methodologies for calculating CLTV and demonstrates their implementation through a practical example.
 
 ## Objectives
 - Identify the most profitable customers
